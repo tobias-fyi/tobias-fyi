@@ -6,8 +6,8 @@
   
 * Data scientist and engineer
 * Software and machine learning engineer
-* 🤓 &nbsp; Deep learning, IoT, aerospace, automation
+* 🤓 &nbsp;Deep learning, IoT, aerospace, automation
 * Writer — science-fiction
-* Producer and DJ — dance (mostly house nowadays) music
+* Producer and DJ — dance music (mostly house nowadays)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=tobias-fyi&show_icons=true">
