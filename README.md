@@ -1,8 +1,9 @@
 # My name's Tobias
 
-[![tobias.fyi](https://img.shields.io/static/v1?label=tobias.fyi&message=%20&color=maroon&logo=&style=flat-square&logoColor=white)](https://tobias.fyi/)
-[![LinkedIn](https://img.shields.io/static/v1?label=@tobias-reaper&message=%20&color=red&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/tobias-reaper/)
-[![hi@tobias.fyi](https://img.shields.io/static/v1?label=hi@tobias.fyi&message=%20&color=orange&logo=gmail&style=flat-square&logoColor=white)](mailto:hi@tobias.fyi)
+[![tobias.fyi](https://img.shields.io/static/v1?label=tobias.fyi&message=%20&color=orange&logo=&style=flat-square&logoColor=white)](https://tobias.fyi/)
+[![hi@tobias.fyi](https://img.shields.io/static/v1?label=hi@tobias.fyi&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:hi@tobias.fyi)
+[![LinkedIn](https://img.shields.io/static/v1?label=@tobias-reaper&message=%20&color=maroon&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/tobias-reaper/)
+[![Twitter](https://img.shields.io/static/v1?label=@tobiasfyi&message=%20&color=brown&logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/tobiasfyi)
   
 * 🛠 &nbsp;Builder; entrepreneur
 * 💻 &nbsp;Data scientist and software/machine learning engineer
