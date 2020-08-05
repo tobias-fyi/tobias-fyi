@@ -6,8 +6,8 @@
   
 * 🛠 &nbsp;Builder; entrepreneur
 * 💻 &nbsp;Data scientist and software/machine learning engineer
-* 🤓 &nbsp;Deep learning, automation, IoT, aerospace, 
-* 🖋 &nbsp;Writer — science-fiction
+* 🤓 &nbsp;Deep learning, automation, IoT, aerospace, big data
+* 🖋 &nbsp;Writer — technical and science-fiction
 * 🎧 &nbsp;Producer and DJ — dance music (mostly house nowadays)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=tobias-fyi&show_icons=true">
