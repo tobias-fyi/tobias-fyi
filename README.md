@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=@tobias-reaper&message=%20&color=brown&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/tobias-reaper/)
 [![Twitter](https://img.shields.io/static/v1?label=@tobiasfyi&message=%20&color=maroon&logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/tobiasfyi)
   
-* 🛠 &nbsp;Builder; entrepreneur
+* 🛠 &nbsp;Builder, entrepreneur, life-long learner
 * 💻 &nbsp;Data scientist and software/machine learning engineer
 * 🤓 &nbsp;Neural networks and deep learning, computer vision, big data
 * 💡 &nbsp;Aerospace, automation, IoT, smart homes and cities
