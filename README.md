@@ -7,8 +7,8 @@
   
 * 🛠 &nbsp;Builder, entrepreneur, life-long learner
 * 💻 &nbsp;Data scientist and software/machine learning engineer
-* 🤓 &nbsp;Neural networks and deep learning, computer vision, big data
-* 💡 &nbsp;Aerospace, automation, IoT, smart homes and cities
+* 🤓 &nbsp;Neural networks and deep learning, computer vision, IoT, automation
+* 💡 &nbsp;Transportation, aerospace, smart homes/cities, robotics, healthcare, sustainability
 * 🖋 &nbsp;Writer — technical and science-fiction
 * 🎧 &nbsp;Producer and DJ — dance music (mostly house nowadays)
 
