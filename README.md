@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/static/v1?label=@tobiasfyi&message=%20&color=maroon&logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/tobiasfyi)
   
 * 🛠 &nbsp;Builder, entrepreneur, life-long learner
-* 💻 &nbsp;Data scientist and software/machine learning engineer
+* 💻 &nbsp;Data, software, & machine learning | scientist & engineer
 * 🤓 &nbsp;Neural networks and deep learning, computer vision, IoT, automation
 * 💡 &nbsp;Transportation, aerospace, smart homes/cities, robotics, healthcare, sustainability
 * 🖋 &nbsp;Writer — technical and science-fiction
