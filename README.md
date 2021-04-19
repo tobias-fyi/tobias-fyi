@@ -7,9 +7,10 @@
   
 * 🛠 &nbsp;Builder, entrepreneur, life-long learner
 * 💻 &nbsp;Data, software, & machine learning | scientist & engineer
-* 🤓 &nbsp;Neural networks and deep learning, computer vision, IoT, automation
-* 💡 &nbsp;Transportation, aerospace, smart homes/cities, robotics, healthcare, finance, sustainability
-* 🖋 &nbsp;Writer – technical and science-fiction – and Zettelkasten enthusiast
+* 🤓 &nbsp;Neural networks and deep learning, computer vision, algorithms,
+* 💡 &nbsp;Transportation, aerospace, robotics, edtech, healthtech, fintech, sustainability
+* 👁 &nbsp;Music, design, art, architecture
+* 🖋 &nbsp;Writer – technical and science-fiction – and Zettelkasten / second brain enthusiast
 * 🎧 &nbsp;Producer and DJ — dance music (mostly house nowadays)
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=tobias-fyi&show_icons=true">
