@@ -7,7 +7,7 @@
   
 * 🛠 &nbsp;Builder, entrepreneur, life-long learner
 * 💻 &nbsp;Data, software, & machine learning | scientist & engineer
-* 🤓 &nbsp;Neural networks and deep learning, computer vision, algorithms,
+* 🤓 &nbsp;Neural networks and deep learning, computer vision, algorithms
 * 💡 &nbsp;Transportation, aerospace, robotics, edtech, healthtech, fintech, sustainability
 * 👁 &nbsp;Music, design, art, architecture
 * 🖋 &nbsp;Writer – technical and science-fiction – and Zettelkasten / second brain enthusiast
